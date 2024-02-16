@@ -2,7 +2,7 @@
 
 ## Overview
 
-The social buzz analysis focuses on analyzing the content and reactions on social media platforms. The analysis aims to gain insights into the engagement and sentiment surrounding the content. This particular analysis is based on a dataset from social media platforms capturing user reactions to various content.
+The social buzz analysis focuses on analyzing the content and reactions on Social Buzz. The analysis aims to gain insights into the engagement and sentiment surrounding the content. This particular analysis is based on a dataset from Social Buzz capturing user reactions to various content.
 
 ### Key Activities:
 - Data Collection
