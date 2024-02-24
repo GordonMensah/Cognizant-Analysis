@@ -38,10 +38,24 @@ The objectives of the social buzz analysis include:
 
 ### Insights gained:
 - Identification of popular content topics
+![Screenshot 2024-02-22 at 3 31 49 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/4b375265-4742-4f7d-988e-fbabd0468405)
+
+  ![Screenshot 2024-02-22 at 3 31 56 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/e50fc6fc-dd11-48f4-82de-41de47114675)
+
 - Analysis of user engagement metrics (likes, shares, comments)
+![Screenshot 2024-02-22 at 3 32 02 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/4cd4937b-9d10-4286-9fcd-bf07adadd8eb)
+
+
 - Examination of trends over time
+![Screenshot 2024-02-22 at 3 32 17 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/968174a4-4a2b-4ff7-92ff-31ae05e9a9dc)
+
+  
 
 ## Sentiment Analysis
+![Screenshot 2024-02-22 at 3 32 40 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/f82e2d45-d20c-4190-9da2-507ea82c2c30)
+
+I![Screenshot 2024-02-22 at 3 32 45 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/feb46fc0-b28e-4f5f-b18b-5c518b409d2d)
+
 
 ### Approach:
 - Text processing techniques (tokenization, stemming, lemmatization)
