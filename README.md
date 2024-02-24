@@ -38,11 +38,13 @@ The objectives of the social buzz analysis include:
 
 ### Insights gained:
 - Identification of popular content topics
+
 ![Screenshot 2024-02-22 at 3 31 49 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/4b375265-4742-4f7d-988e-fbabd0468405)
 
-  ![Screenshot 2024-02-22 at 3 31 56 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/e50fc6fc-dd11-48f4-82de-41de47114675)
+![Screenshot 2024-02-22 at 3 31 56 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/e50fc6fc-dd11-48f4-82de-41de47114675)
 
 - Analysis of user engagement metrics (likes, shares, comments)
+  
 ![Screenshot 2024-02-22 at 3 32 02 AM](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/4cd4937b-9d10-4286-9fcd-bf07adadd8eb)
 
 
