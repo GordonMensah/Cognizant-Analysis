@@ -4,6 +4,11 @@
 
 The social buzz analysis focuses on analyzing the content and reactions on Social Buzz. The analysis aims to gain insights into the engagement and sentiment surrounding the content. This particular analysis is based on a dataset from Social Buzz capturing user reactions to various content.
 
+## How to Explore
+
+- **Interactive Dashboard:** Access the interactive dashboard ➡️➡️  ![Dashboard 1-2](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/a1f568ba-7e0d-4242-9ac9-44d3b126b64c)
+
+
 ### Key Activities:
 - Data Collection
 - Data Cleaning
