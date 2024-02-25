@@ -6,7 +6,7 @@ The social buzz analysis focuses on analyzing the content and reactions on Socia
 
 ## How to Explore
 
-- **Interactive Dashboard:** Access the interactive dashboard ➡️➡️  ![Dashboard 1-2](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/a1f568ba-7e0d-4242-9ac9-44d3b126b64c)
+- **Interactive Dashboard:** Access the interactive dashboard ➡️➡️ https://public.tableau.com/app/profile/joseph.gordon.mensah/viz/SocialMediaContent_17087316828340/Dashboard1?publish=yes ![Dashboard 1-2](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/a1f568ba-7e0d-4242-9ac9-44d3b126b64c)
 
 
 ### Key Activities:
