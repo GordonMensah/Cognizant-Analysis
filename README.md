@@ -77,6 +77,5 @@ Based on the analysis, the following recommendations are generated:
 - Monitor sentiment trends and address negative feedback promptly
 - Collaborate with influencers or brand ambassadors to expand reach
 
-### Screenshots
 
 This social buzz analysis provides valuable insights for optimizing social media strategy and enhancing brand engagement on various platforms.
