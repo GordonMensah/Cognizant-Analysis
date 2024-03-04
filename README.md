@@ -70,7 +70,8 @@ I![Screenshot 2024-02-22 at 3 32 45 AM](https://github.com/GordonMensah/Social-B
 - Text processing techniques (tokenization, stemming, lemmatization)
 - Sentiment scoring using lexicon-based methods or machine learning models
 - Visualization of sentiment distribution
-[Social Buzz Analyshs Overview.pdf](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/files/14481917/Social.Buzz.Analyshs.Overview.pdf)
+
+![Purple Modern Marketing Budget Allocation Report Infographic](https://github.com/GordonMensah/Social-Buzz-Content-Analysis/assets/148505242/1305dd72-e00c-40d4-b1b6-37bf559bb221)
 
 
 
